@@ -1,0 +1,9 @@
+c:\users\adam\documents\visual studio 2010\Projects\launcher\launcher\bin\Debug\launcher.exe
+c:\users\adam\documents\visual studio 2010\Projects\launcher\launcher\bin\Debug\launcher.pdb
+c:\users\adam\documents\visual studio 2010\Projects\launcher\launcher\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2010\Projects\launcher\launcher\obj\x86\Debug\launcher.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2010\Projects\launcher\launcher\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\adam\documents\visual studio 2010\Projects\launcher\launcher\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\adam\documents\visual studio 2010\Projects\launcher\launcher\obj\x86\Debug\launcher.exe
+c:\users\adam\documents\visual studio 2010\Projects\launcher\launcher\obj\x86\Debug\launcher.pdb
+c:\users\adam\documents\visual studio 2010\Projects\launcher\launcher\obj\x86\Debug\launcher.Form1.resources
